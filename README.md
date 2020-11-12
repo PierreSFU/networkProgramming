@@ -7,5 +7,4 @@ Simple multithreaded network programming assignment
 Example:
 
 First computer ./s-talk 6100 computer1 6020
-
-Other computer ./s-talk 6020 computer2 6100
+Second computer ./s-talk 6020 computer2 6100
